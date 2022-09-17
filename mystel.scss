@@ -1,0 +1,10 @@
+body{
+    $color: aqua;
+    $font-size: 25px;
+    $font-family: sans-serif;
+}
+#container{
+    text-align: $center;
+    color:$green;
+    width: &width;
+}

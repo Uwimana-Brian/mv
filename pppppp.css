@@ -1,0 +1,16 @@
+.blockone{
+    border: 1px solid black;
+    height: 600px;
+    width: 550px;
+    background-color: white;
+    margin-left: 400px;
+    /*background-color: gray;*/
+}
+.blueblock{
+    border: 1px solid black;
+    height: 300px;
+    width: 550px;
+    background-color: blue;
+    margin-left: -2px;
+    
+}

@@ -1,0 +1,289 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+.first{
+    height: 2250px;
+    width: 100%;
+    /* border:solid black ; */
+
+}
+.head{
+    width: 100%;
+    height: 40px;
+    background-color: green;
+    display: flex;
+}
+.link{
+    margin-left: 450px;
+    margin-top: -113px;
+    margin-right:55px;
+    background-color: skyblue;
+    height: 60px;
+    
+}
+.about{
+    margin-left:550px;
+    font-size: 30px;
+    margin-top: 70px;
+    background-color: blue;
+    }
+.face{
+    height: 30px;
+    border: skyblue solid 1px;
+    width: 30px;
+    margin-left: 1100px;
+    border-radius: 28px;
+    margin-top: 2px;    
+}
+.twitter{
+height: 30px;
+border: skyblue solid 1px;
+width: 30px;
+margin-left: 55px;
+border-radius: 28px;
+margin-top: 2px;    
+}
+.youtube{
+    height: 30px;
+    border: skyblue solid 1px;
+    width: 30px;
+    margin-left: -75px;
+    border-radius: 28px;
+    margin-top: 2px; 
+}
+.other{
+    height: 30px;
+    border: skyblue solid 1px;
+    width: 30px;
+    margin-left: -115px;
+    border-radius: 28px;
+    margin-top: 2px;
+}
+.block{
+    height: 430px;
+    width: 100%;
+    /* border: black solid; */
+    margin-top: -36px;
+    background-color: skyblue;
+}
+.infor{
+    font-size: 34px;
+    margin-left:510px;
+    margin-top:-15px;
+}
+.tabl1{
+    height: 250px;
+    width: 400px;;
+    /* border: black solid; */
+    margin-left: 15px;
+    background-color: green;
+}
+.tabl2{
+       height: 250px;
+    width: 400px;;
+    /* border: black solid; */
+    margin-left: 445px;
+    margin-top: -255px;
+    background-color: green;
+    display: flex;
+    margin-top: -255px;
+}
+.tabl3{
+    height: 250px;
+    width: 400px;;
+    /* border: black solid; */
+    margin-left: 874px;
+    margin-top: -255px;
+    background-color: green;
+    display: flex;
+}
+.tit1{
+    font-size: 25px;
+    margin-left: 95px;
+    
+}
+.wold{
+    margin-left:112px ;
+}
+.tit2{
+    font-size: 25px;
+    margin-left: 95px;
+}
+.wold2{
+    margin-top: 65px;
+    margin-left: -105px;
+
+}
+.tit3{
+    font-size: 25px;
+    margin-left: 95px;
+}
+.blopc{
+    width:1330px;
+    height: 475px;
+    /* border: black solid; */
+    margin-left: -970px;
+    margin-top: 185px;
+}
+.hgreen1{
+    height: 65px;
+    width: 870px;
+    /* border: black solid; */
+    margin-top: 20px;
+    background-color: green;
+}
+.new{
+    margin-left: 370px;
+    font-size: 25px;
+    margin-top:-6px;
+}
+.hgreen2{
+    height: 65px;
+    width: 425px;
+    /* border: black solid; */
+    background-color: green;
+    margin-left: 900px;
+    margin-top: -90px;
+}
+.publ{
+    margin-left: 90px;
+    margin-top: -2px;
+    font-size: 25px;
+}
+.dat1{
+    font-size: 13px;
+    margin-top: -8px;
+}
+.rwlink{
+    font-size: 16px;
+    margin-top: -12px;
+
+}
+.dat2{
+    font-size: 15px;
+
+}
+.d1{
+    font-size: 13px;
+    margin-left:-85px;
+    margin-top: 40px;
+}
+.d2{
+    margin-top: 30px;
+}
+.d3{
+    margin-top: 30px;
+}
+.pc{
+    margin-left: -894px;
+    margin-top: -190px;
+    
+}
+.pc2{
+    margin-top: -143px;
+}
+.dat3{
+    margin-left: 450px;
+    margin-top: -15px;
+    font-size: 15px;
+}
+.rwlink2{
+    margin-left:450px ;
+    font-size:16px ;
+    margin-top:-10px ;
+}
+.dat4{
+    margin-left: 455px;
+    margin-top: 3px;
+    font-size: 15px;
+}
+.anti{
+    /* border: black solid; */
+    height: 65px;
+    width: 416px;
+    background-color: green;
+
+
+}
+.corr{
+    margin-left:90px ;
+    margin-top: -10px;
+    font-size: 37px;
+    
+}
+
+.block3{
+    height: 450px;
+    width:1328px;
+    /* border: black solid; */
+    margin-left: -467px;
+    margin-top: 52px;
+}
+.final{
+    background-color: skyblue;
+    height: 485px;
+    width: 101%;
+     /* border: solid black; */
+     margin-left: -13px;
+     margin-top: -55px;
+}
+.useful{
+    margin-left: 60px;
+    font-size: 30px;
+    margin-top: 70px;
+    color: white;
+    
+
+
+}
+.contact {
+    margin-left: 350px;
+    margin-top: 100px;
+    
+
+}
+.link2{
+    margin-left: 325px;
+    margin-top: -265px;
+
+}
+.abt{
+    margin-top: -480px;
+    margin-left:800px;
+    font-size: 30px;
+    color: white;
+}
+.vip{
+    margin-left:800px ;
+    color: white;
+    margin-top: 25px;
+}
+.sub{
+    margin-left:800px ;
+    color: white;
+    margin-top: 25px;
+    font-size: 30px;
+}
+.cont{
+    margin-left: 85px;
+    font-size: 35px;
+    margin-top: 25px;
+    color: white;
+}
+.email{
+    margin-left: 800px;
+}
+.line{
+    border: 1px solid white;
+    margin-top: 55px;
+    width: 950px;
+    margin-left: 80px;
+}
+.copy{
+    color: white;
+    margin-left: 450px;
+    margin-top: 20px;
+
+}
+.any{
+    color: blue;
+}
